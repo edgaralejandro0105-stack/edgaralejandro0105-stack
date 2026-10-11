@@ -3,7 +3,7 @@
   <!-- Header Banner Azul a Turquesa -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:40E0D0&height=180&section=header&text=¡Hola%20a%20todos!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <h1>Soy Alejo 🚀</h1>
+  <h1>Soy Alejo </h1>
   <p><strong>Estudiante de Ingeniería de Sistemas | Desarrollador Web Full Stack</strong></p>
 
   <!-- Texto dinámico en turquesa -->
