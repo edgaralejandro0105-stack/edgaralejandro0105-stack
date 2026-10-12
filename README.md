@@ -1,14 +1,20 @@
 <div align="center">
 
-  <!-- Header Banner Azul a Turquesa -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:40E0D0&height=180&section=header&text=¡Hola%20a%20todos!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Header Banner Azul a Turquesa sin manita -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:40E0D0&height=180&section=header&text=¡Hola%20a%20todos!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <h1>Soy Alejo </h1>
+  <br />
+
+  <!-- Animación "Soy Alejo" con tipografía robótica / terminal pixel -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1200&color=40E0D0&center=true&vCenter=true&width=550&height=50&lines=SOY_ALEJO.EXE;INIT_DEV_SESSION_%3E_ALEJO;SYS.USER_NAME%3D%22ALEJO%22" alt="Soy Alejo Robotico" />
+  </a>
+
   <p><strong>Estudiante de Ingeniería de Sistemas | Desarrollador Web Full Stack</strong></p>
 
-  <!-- Texto dinámico en turquesa -->
+  <!-- Texto dinámico descriptivo en Verde Menta Neón (#00FFA3) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=520&lines=Creando+soluciones+escalables;Desarrollo+Frontend+%2B+Backend;Modelado+y+normalizaci%C3%B3n+de+bases+de+datos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA3&center=true&vCenter=true&width=520&lines=Creando+soluciones+escalables;Desarrollo+Frontend+%2B+Backend;Modelado+y+normalizaci%C3%B3n+de+bases+de+datos" alt="Typing SVG" />
   </a>
 
 </div>
