@@ -5,14 +5,14 @@
 
   <br />
 
-  <!-- Animación "Soy Alejo" con tipografía robótica / terminal pixel -->
+  <!-- Animación Soy Alejo con tipografía robótica -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1200&color=40E0D0&center=true&vCenter=true&width=550&height=50&lines=SOY_ALEJO.EXE;INIT_DEV_SESSION_%3E_ALEJO;SYS.USER_NAME%3D%22ALEJO%22" alt="Soy Alejo Robotico" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1200&color=40E0D0&center=true&vCenter=true&width=550&height=50&lines=SOY_ALEJO.EXE;INIT_DEV_SESSION_%3E_ALEJO;SYS.USER_NAME%3D'ALEJO'" alt="Soy Alejo Robotico" />
   </a>
 
   <p><strong>Estudiante de Ingeniería de Sistemas | Desarrollador Web Full Stack</strong></p>
 
-  <!-- Texto dinámico descriptivo en Verde Menta Neón (#00FFA3) -->
+  <!-- Texto dinámico descriptivo en Verde Menta Neón -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA3&center=true&vCenter=true&width=520&lines=Creando+soluciones+escalables;Desarrollo+Frontend+%2B+Backend;Modelado+y+normalizaci%C3%B3n+de+bases+de+datos" alt="Typing SVG" />
   </a>
@@ -27,7 +27,7 @@
 
 - 💻 Estudiante apasionado por la ingeniería de software y la resolución eficiente de problemas.
 - ⚙️ Enfoque principal en el desarrollo web moderno, arquitectura de software y diseño relacional.
-- 🎯 Filosofía de trabajo: *"Todo lo que puedes imaginar, se puede construir en código."*
+- 🎯 Filosofía de trabajo: Todo lo que puedes imaginar se puede construir en código.
 
 ---
 
@@ -48,7 +48,13 @@
 
 </div>
 
-stack&layout=compact&theme=algolia&hide_border=true&border_radius=10" height="150" alt="Top Languages" />
+---
+
+### 📊 Métricas & Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgaralejandro0105-stack&show_icons=true&theme=algolia&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgaralejandro0105-stack&layout=compact&theme=algolia&hide_border=true&border_radius=10" height="150" alt="Top Languages" />
 </div>
 
 <br />
