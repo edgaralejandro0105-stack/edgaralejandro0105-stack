@@ -48,13 +48,7 @@
 
 </div>
 
----
-
-### 📊 Métricas & Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgaralejandro0105-stack&show_icons=true&theme=algolia&hide_border=true&border_radius=10" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgaralejandro0105-stack&layout=compact&theme=algolia&hide_border=true&border_radius=10" height="150" alt="Top Languages" />
+stack&layout=compact&theme=algolia&hide_border=true&border_radius=10" height="150" alt="Top Languages" />
 </div>
 
 <br />
